@@ -68,4 +68,6 @@ theme: tranquilpeak
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@bitbucket.org:ryanheathers/ryanheathers.git
+  branch: production
