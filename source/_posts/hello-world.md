@@ -1,5 +1,7 @@
----
-title: Hello World, It's Me
+title: "Hello World, It's Me"
+tags: []
+categories: []
+date: 2016-01-25 13:06:00
 ---
 Hi! I've had good intentions to revamp my personal website for seemingly forever. Today I've finally given my own little corner of the interwebs a fresh coat of paint, knocked down a wall or two, and added some new HardiePlank® siding. (My wife and I are currently on a [Fixer Upper](http://www.hgtv.com/shows/fixer-upper) tv show kick, so pardon the home renovation metaphors - they're flowing freely at the moment.)
 
