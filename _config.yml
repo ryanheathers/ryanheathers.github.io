@@ -69,5 +69,5 @@ theme: tranquil
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@bitbucket.org:ryanheathers/ryanheathers.git
-  branch: production
+  repo: git@github.com:ryanheathers/ryanheathers.github.io.git
+  branch: master
