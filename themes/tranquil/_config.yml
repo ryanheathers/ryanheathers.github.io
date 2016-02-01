@@ -51,12 +51,12 @@ sidebar:
             title: FunnelCloud
             url: http://funnelcloudmarketing.com
             icon: building
-        # search:
-        #     title: global.search
-        #     url: /#search
-        #     icon: search
-        #     # `st-search-show-outputs` classes are used to open swiftype search window
-        #     class: st-search-show-outputs
+        search:
+            title: global.search
+            url: /#search
+            icon: search
+            # `st-search-show-outputs` classes are used to open swiftype search window
+            class: st-search-show-outputs
         about:
             title: global.about
             url: /#about
@@ -160,7 +160,7 @@ baidu_analytics_id:
 # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
 gravatar_email: ryan@ryanheathers.com
 # Your swiftype install key
-swiftype_install_key:
+swiftype_install_key: oWuDy4HQE2NZsmpsG8D1
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
 fb_admin_ids:
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
