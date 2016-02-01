@@ -39,13 +39,17 @@ sidebar:
             title: global.categories
             url: /all-categories
             icon: bookmark
+        tags:
+            title: global.tags
+            url: /all-tags
+            icon: tags
         archives:
             title: global.archives
             url: /all-archives
             icon: archive
         funnelcloud:
             title: FunnelCloud
-            url: //funnelcloudmarketing.com
+            url: http://funnelcloudmarketing.com
             icon: building
         # search:
         #     title: global.search
@@ -62,30 +66,14 @@ sidebar:
             title: global.github
             url: https://github.com/ryanheathers
             icon: github
-        # stack_overflow:
-        #     title: global.stack_overflow
-        #     url: http://stackoverflow.com/users
-        #     icon: stack-overflow
         twitter:
             title: global.twitter
             url: https://twitter.com/ryanheathers
             icon: twitter
-        # facebook:
-        #     title: global.facebook
-        #     url: https://facebook.com/
-        #     icon: facebook
-        # google_plus:
-        #     title: global.google_plus
-        #     url: https://plus.google.com/
-        #     icon: google-plus
         linked_in:
             title: global.linkedin
             url: https://www.linkedin.com/in/ryanheathers
             icon: linkedin
-        # mail:
-        #     title: global.mail
-        #     url: mailto:
-        #     icon: envelope-o
 
 # Header configuration
 # The link at the right of the header is customizable
