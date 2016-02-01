@@ -1,7 +1,11 @@
 ---
 title: New FunnelCloud Website!
 date: 2016-02-01 13:05:50
-tags: funnelcloud hexo
+categories:
+- Web Development
+tags:
+- css
+- funnelcloud
 ---
 Having [transitioned](//ryanheathers.com/2016/01/25/hello-world/) my personal site to the Hexo website engine, it was high time to do the same for [FunnelCloud](//funnelcloudmarketing.com), my web development consultancy. I'd been rolling with a semi-custom Wordpress theme for a while now but was never really happy with it. It was time for a welcome change.
 
